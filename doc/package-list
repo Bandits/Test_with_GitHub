@@ -1,0 +1,12 @@
+gc.pmb_library.android
+gc.pmb_library.android.api.interfaces
+gc.pmb_library.android.api.manager
+gc.pmb_library.android.api.manager.model
+gc.pmb_library.android.internal.connection
+gc.pmb_library.android.internal.exceptions
+gc.pmb_library.android.internal.googlecm
+gc.pmb_library.android.internal.json
+gc.pmb_library.android.internal.manager
+gc.pmb_library.android.internal.manager.model
+gc.pmb_library.android.internal.udidimpl
+gc.pmb_library.android.internal.utilities
